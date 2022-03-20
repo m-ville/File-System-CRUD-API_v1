@@ -6,7 +6,7 @@
 
 |   Task       |     Method/HTTP Verb      |    Path/ Endpoint URL      |
 | :---------   |     :--------------:      |     :---------------:      |
-| 1. Upload a file ( as form data : `key=**"file"**` value={filetobeuploaded} ) |POST |  `/files/upload`  |
+| 1. Upload a file ( as form data : `key=file` & value={filetobeuploaded} ) |POST |  `/files/upload`  |
 | 2. Get list of all files                                                    | GET  |  `/files`        |
 | 3. Download a file                                                          | GET  | `/files/download/{filename}`  |
 | 4. Update a file  ( new file as form data )                                 | PUT  | `/files/update/{filename}`  |
