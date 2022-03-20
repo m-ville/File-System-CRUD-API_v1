@@ -4,6 +4,9 @@
 - Below is the description table.
 > Don't forget to read the Note below :)
 
+> Format : `{HostedURL}/{endPoints}`
+
+
 
 |   Task       |     Method/HTTP Verb      |    Path/ Endpoint URL      |
 | :---------   |     :--------------:      |     :---------------:      |
