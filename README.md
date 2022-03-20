@@ -17,7 +17,7 @@
 | 5. Delete a file                                                            | DELETE | `/files/{filename}` |
 
 
-## Demo/Usuge
+## Demo/Usage
 > **1. Upload a file :**
 ![InkedFile System CRUD API - Uplaod a file_LI](https://user-images.githubusercontent.com/94619482/159142364-e5aa5309-6412-4f74-bdad-264b3739d130.jpg)
 
