@@ -4,7 +4,7 @@
 - Below is the description table.
 > Don't forget to read the Note below :)
 
-> Format : `{HostedURL}/{endPoints}`
+> Format : `{HostedURL}/{endPointURL}`
 
 
 
